@@ -1,4 +1,4 @@
-# Predicting-Agricultural-Yield-for-Informed-Farming-Decisions
+# Predicting Agricultural Yield for Informed Farming
 
 This project delves into a massive agricultural dataset to uncover the secrets of maximising crop yield. We'll embark on a journey of discovery, analysing the intricate relationships between various factors that influence crop growth. These factors include:
 
