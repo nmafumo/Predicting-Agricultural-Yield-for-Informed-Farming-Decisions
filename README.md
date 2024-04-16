@@ -9,25 +9,25 @@ Farm management practices: Planting decisions, fertilization techniques, and pes
 
 Our ultimate goal is to decode these complex relationships and empower farmers with actionable insights. By analysing this data, we aim to:
 
-# Uncover Hidden Patterns: 
+**Uncover Hidden Patterns:**
 We will explore how the predictor variables like geographic location, weather, soil properties, and farm management practices are intertwined with crop yield (the target variable).
 
-# Prepare the Data for Analysis:
+**Prepare the Data for Analysis:**
 We will transform the data into a format suitable for modeling by handling categorical variables and ensuring all features are on the same scale.
 
-# Build Predictive Models:
+**Build Predictive Models:**
 We will construct and evaluate multiple linear regression models to identify the most significant factors influencing crop yield.
 
-# Address Challenges: 
+**Address Challenges:**
 We will tackle potential issues like multicollinearity (when features are highly correlated) using techniques like LASSO and Ridge regression.
 
-# Interpret Results: 
+**Interpret Results:**
 We will decipher the meaning of the regression coefficients to understand how each factor affects crop yield.
 
-# Explore Alternative Models: 
+**Explore Alternative Models:** 
 We will venture beyond linear models by implementing decision tree algorithms that can handle both categorical and numerical data for prediction.
 
-# Evaluate Model Performance:
+**Evaluate Model Performance:**
 We will calculate and interpret metrics like Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) to assess how accurately our models predict crop yield.
 
 Through this comprehensive analysis, we aim to equip farmers with valuable knowledge to optimise their crop yields and make informed decisions for a more productive and sustainable future.
