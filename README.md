@@ -5,7 +5,7 @@ This project delves into a massive agricultural dataset to uncover the secrets o
 Geographic location: Where the crops are grown can significantly impact yield due to variations in climate and soil composition.
 Weather patterns: Rainfall, temperature, and other weather elements play a crucial role in crop health and productivity.
 Soil characteristics: The chemical and physical properties of the soil directly influence nutrient availability for plants.
-Farm management practices: Planting decisions, fertilization techniques, and pest control strategies all contribute to yield outcomes.
+Farm management practices: Planting decisions, fertilisation techniques, and pest control strategies all contribute to yield outcomes.
 
 Our ultimate goal is to decode these complex relationships and empower farmers with actionable insights. By analysing this data, we aim to:
 
