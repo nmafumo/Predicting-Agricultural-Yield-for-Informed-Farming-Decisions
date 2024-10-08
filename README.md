@@ -1,8 +1,6 @@
 # Predicting Agricultural Yield for Informed Farming
 
-In this project, we use a dataset from agriculture to uncover ways of maximising crop yield using Machine Learning. 
-
-We will analyse the relationships between various factors that influence crop growth. These factors include:
+In this project, we use a dataset from agriculture to uncover ways of maximising crop yield using Machine Learning. We will analyse the relationships between various factors that influence crop growth. These factors include:
 
 **Geographic location:** Where the crops are grown can significantly impact yield due to variations in climate and soil composition.
 
